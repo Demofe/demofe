@@ -25,6 +25,6 @@ I am 20 years old and I will try to change this world!!
 
 
 ## My stats :
-![stats](https://github-readme-stats.vercel.app/api?username=demofe&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demofe&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demofe&theme=tokyonight)

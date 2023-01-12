@@ -13,6 +13,6 @@ Javascript, HTML, CSS, Python, C++, C#, lua...
 
 
 ## My stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demofe&hide=contribs,prs)
+![stats](https://github-readme-stats.vercel.app/api?username=demofe&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demofe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demofe&theme=tokyonight)

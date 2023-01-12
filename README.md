@@ -11,8 +11,8 @@ Javascript, HTML, CSS, Python, C++, C#, lua...
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919832.png">
-<img height="40" src="https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png">
-<img height="40" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png">
+<img height="40" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">
+<img height="40" src="https://static-00.iconduck.com/assets.00/c-icon-455x512-nnvx09v8.png">
 <img height="40" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/226/226772.png">
 <img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png">
